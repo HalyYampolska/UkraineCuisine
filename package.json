@@ -1,0 +1,14 @@
+{
+  "name": "ukraine-cuisine",
+  "version": "1.0.0",
+  "description": "Lending page for ukraine cuisine",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Galyna (Halyna) Yampolska",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
